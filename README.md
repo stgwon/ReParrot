@@ -29,3 +29,5 @@ Below is a list of the actions I took to accomplish my responsibilities.
 ● Performed commits and pull requests to secure consistency and quality.
 
 ● Participated in daily stand-ups, code review, and code talks with team members to ensure cohesive implementation of code.
+
+![reparrot_logo_transparent](https://user-images.githubusercontent.com/86079805/216856119-84da2d03-0f68-487c-8b68-a4caf5c7fbac.png)
